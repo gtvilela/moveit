@@ -1,0 +1,70 @@
+.GithubLoginContainer {
+    height: 100%;
+  
+    padding: 1.5rem 2rem;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  .GithubLoginContainer header img {
+    width: 360px;
+    height: 76px;
+  
+    padding: 3.5rem 0;
+  }
+  
+  .GithubLoginContainer main strong {
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--white);
+  }
+  
+  .GithubLoginContainer main div {
+    flex: 1;
+    max-width: 318px;
+  
+    display: grid;
+    grid-template-columns: 0.3fr 1fr;
+    align-content: left;
+  
+    padding: 2rem 0;
+  
+    color: var(--text-highlight);
+  }
+  
+  .GithubLoginContainer footer {
+    height: 4rem;
+    display: flex;
+  }
+  
+  .GithubLoginContainer footer input {
+    background: linear-gradient(to right, var(--blue-dark), var(--blue));
+    border-radius: 5px 0 0 5px;
+    outline:0;
+    border: 0;
+  
+    height: 100%;
+    width: 17.5rem;
+    
+    padding-left: 1.5rem;
+  
+    color: var(--text-highlight);
+  }
+  
+  .GithubLoginContainer footer input::placeholder {
+    color: var(--text-highlight);
+  }
+  
+  .GithubLoginContainer footer button {
+    background: var(--blue-dark);
+    border:none;
+    border-radius: 0 5px 5px 0;
+    
+    font-size: 1;
+  
+    height: 100%;
+    width: 4rem;
+  }

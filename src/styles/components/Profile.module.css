@@ -1,28 +1,50 @@
 .profileContainer {
     display: flex;
     align-items: center;
-}
-
-.profileContainer > img {
+  }
+  
+  .profileContainer > img {
     width: 5.5rem;
     height: 5.5rem;
     border-radius: 50%;
-}
-
-.profileContainer div {
+  }
+  
+  .profileContainer > div {
     margin-left: 1.5rem;
-}
-
-.profileContainer div strong {
+  }
+  
+  .profileContainer > div > div {
+    flex: 1;
+    width: 330px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .profileContainer > div > div > strong {
     font-size: 1.5rem;
     font-weight: 600;
     color: var(--title);
-}
-
-.profileContainer div p {
+  }
+  
+  .profileContainer > div > div > button {
+    border: 0;
+    border-radius: 5px;
+    background: transparent;
+    color: var(--blue-dark)
+  }
+  
+  .profileContainer > div > div:last-child {
+    flex: 1;
+    width: 330px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .profileContainer > div > div:last-child > p {
     font-size: 1rem;
     margin-top: 0.5rem;
-}
-.profileContainer div p img{
+  }
+  
+  .profileContainer > div > div:last-child > p > img {
     margin-right: 0.5rem;
-}
+  }

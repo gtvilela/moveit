@@ -1,14 +1,16 @@
+  
+import { LoginProvider } from '../contexts/LoginContext';
+import { ThemeProvider } from '../contexts/ThemeContext';
 import '../styles/global.css';
 
-import { ChallengesProvider} from '../contexts/ChallengesContext'
-
 function MyApp({ Component, pageProps }) {
-
   return (
-  <ChallengesProvider>
-    <Component {...pageProps} />
-  </ChallengesProvider>
-  )
+    <ThemeProvider>
+      <LoginProvider>
+        <Component {...pageProps} />
+      </LoginProvider>
+    </ThemeProvider>
+  );
 }
 
 export default MyApp
