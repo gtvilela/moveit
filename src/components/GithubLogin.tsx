@@ -1,7 +1,7 @@
 
 import { useContext } from 'react';
 import { LoginContext } from '../contexts/LoginContext';
-import styles from '../styles/components/GitHubLogin.module.css';
+import styles from '../styles/components/GithubLogin.module.css';
 
 export function GithubLogin() {
   const { handleOnChangeUsername, handleOnClickLoginUsername } = useContext(LoginContext);
