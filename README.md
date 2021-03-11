@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="moveit logo" src="/public/icons/logo-full.svg" />
+  <img alt="moveit logo" src="./public/logo-full.svg" />
   <small>NLW</small>
 </h1>
 
@@ -10,7 +10,8 @@
 <br />
 
 # Moveit 
-<img width="20px" height="10px"src="/public/logo.svg" alt="moveit logo"/>
+
+<img width="20px" height="10px"src="./public/logo.svg" alt="moveit logo"/>
 
 <img src="./public/moveit.gif" alt="moveit gif" />
 
