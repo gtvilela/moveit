@@ -9,7 +9,7 @@
 
 <br />
 
-<h1> Animação <img src="./public/favicon.png" alt="favicon" width="15px" height="15px"/><h1>
+<h1> <img src="./public/favicon.png" alt="favicon" width="20px" height="20px"/> Animação <h1>
 
 <img src="./public/moveit.gif" alt="moveit gif" />
 
