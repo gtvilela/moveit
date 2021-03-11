@@ -3,7 +3,7 @@
   <small>NLW</small>
 </h1>
 
-<h3 align="center"> Projeto proposto na NLW pela <strong>Rocketseat</strong> e tem como objetivo juntar o mundo dos games com a saúde do desenvolvedor. Inspirada na técnica do Pomodoro, o jogo permite que avancemos de nível a medida que é cumprido os exercícios informados.</h3>
+<h3 align="center"> Projeto proposto na NLW pela <strong>Rocketseat</strong> e tem como objetivo juntar o mundo dos games com a saúde do desenvolvedor. Inspirada na técnica do Pomodoro, o jogo permite que avancemos de nível a medida que são cumpridos os exercícios informados.</h3>
 
 <br />
 
