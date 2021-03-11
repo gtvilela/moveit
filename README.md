@@ -1,15 +1,16 @@
 <h1 align="center">
-  <img alt="moveit logo" src="./public/icons/logo-full.svg" />
+  <img alt="moveit logo" src="/public/icons/logo-full.svg" />
   <small>NLW</small>
 </h1>
 
-<h2 align="center"><img width="20px" height="10px"src=".public/assets/logo.svg" alt="moveit logo"/> Projeto criado na NLW pela [Rocketseat](https://rocketseat.com.br/) e tem como objetivo juntar o mundo dos games com a saúde do desenvolvedor. Inspirada na técnica do Pomodoro, o jogo permite que avancemos de nível a medida que é cumprido os exercícios informados.</h2>
+<h2 align="center"> Projeto criado na NLW pela [Rocketseat](https://rocketseat.com.br/) e tem como objetivo juntar o mundo dos games com a saúde do desenvolvedor. Inspirada na técnica do Pomodoro, o jogo permite que avancemos de nível a medida que é cumprido os exercícios informados.</h2>
 
 <br />
 
 <br />
 
-# Moveit
+# Moveit 
+<img width="20px" height="10px"src="/public/logo.svg" alt="moveit logo"/>
 
 <img src="./public/moveit.gif" alt="moveit gif" />
 
